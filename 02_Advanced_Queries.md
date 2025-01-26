@@ -1,4 +1,4 @@
-## **Group B: Advanced Queries**  
+## **Advanced Queries**  
 These queries focus on advanced SQL techniques, such as CTEs, subqueries, window functions, and case statements.
 ---
 #### **1. Window Functions**  
