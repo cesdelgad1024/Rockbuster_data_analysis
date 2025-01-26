@@ -1,0 +1,11 @@
+# SQL Portfolio
+
+## Basic SELECT and Filtering
+```sql
+-- **Rental Duration Breakdown**
+SELECT rental_duration AS "rented for (in days)", COUNT(*) AS "number of films"
+FROM film
+GROUP BY rental_duration
+ORDER BY COUNT(*) DESC;
+
+-- This query shows the distribution of films based on rental duration.
