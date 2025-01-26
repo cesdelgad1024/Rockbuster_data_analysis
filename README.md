@@ -92,7 +92,7 @@ Rockbuster is a fictional movie rental service. This project demonstrates SQL te
 ## About the Author
 **Cesar S. Delgado**
 - SQL enthusiast and data analyst.
-- Contact: x
+- Contact: -
 - LinkedIn: [linkedin.com/in/cesar-delgado-981163249](https://linkedin.com/in/cesarsdelgado)
 
 Feel free to explore, learn, or contribute!  
