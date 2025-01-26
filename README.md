@@ -95,4 +95,4 @@ Rockbuster is a fictional movie rental service. This project demonstrates SQL te
 - Contact: x
 - LinkedIn: [linkedin.com/in/cesar-delgado-981163249](https://linkedin.com/in/cesarsdelgado)
 
-Feel free to explore, learn, or contribute!
+Feel free to explore, learn, or contribute!  
