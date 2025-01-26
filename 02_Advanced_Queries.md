@@ -1,6 +1,6 @@
 ## **Group B: Advanced Queries**  
 These queries focus on advanced SQL techniques, such as CTEs, subqueries, window functions, and case statements.
-
+---
 #### **1. Window Functions**  
 SELECT customer_id,   
        SUM(amount) AS total_spent,   
