@@ -1,6 +1,6 @@
 ## **Basic and Intermediate Queries**  
 These queries cover foundational concepts like SELECT, filtering, grouping, joins, and data cleaning.
-
+---
 #### **1. Basic SELECT and Filtering:**  
 
 SELECT rental_duration AS "rented for (in days)", COUNT(*) AS "number of films"  
