@@ -138,4 +138,29 @@
 | Zorro Ark          | $199.72M           |
 | Wife Turn          | $198.73M           |
 
-... *(Include additional insights as per your document.)*
+### Revenue by Country
+| Country Name       | Total Revenue      |
+|--------------------|--------------------|
+| India              | $6,034.78          |
+| China              | $5,251.03          |
+| USA                | $3,685.31          |
+| Japan              | $3,122.51          |
+| Mexico             | $2,984.82          |
+
+### Top 5 Customers in Top Cities
+| Customer Name      | City               | Total Spent       |
+|--------------------|--------------------|-------------------|
+| Casey Mena         | Tokat              | $130.68           |
+| Sara Perry         | Atlixco            | $128.70           |
+| Leslie Seward      | Pontianak          | $123.72           |
+| Alan Kahn          | Emeishan           | $119.75           |
+| Clinton Buford     | Aurora             | $98.76            |
+
+### Category Frequency
+| Category Name      | Total Rentals      |
+|--------------------|--------------------|
+| Sports             | 74                 |
+| Foreign            | 73                 |
+| Family             | 68                 |
+| Documentary        | 68                 |
+| Animation          | 66                 |
